@@ -13,11 +13,11 @@
 三个页面如下：
 
 
-<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/image-20220623092347578.png" alt="倒计时页" style="zoom:25%;"/>
+<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/image-20220623092347578.png" style="zoom:5%"/>
 
-<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/20220617134126.png" alt="welcome Page" style="zoom:25%;" />
+<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/20220617134126.png" alt="welcome Page" style="zoom:5%;"/>
 
-<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/20220617134139.png" alt="Login Page" style="zoom:25%;" />
+<img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/20220617134139.png" alt="Login Page" style="zoom:5%;" />
 
 
 **学习参考资料：**
