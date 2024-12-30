@@ -24,6 +24,15 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.orange,
         fontFamily: 'Poppins',
+        elevatedButtonTheme: ElevatedButtonThemeData( // ElevatedButton 主题
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.orange, // 按钮背景色
+            elevation: 0, // 阴影
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(10), // 圆角
+            ),
+          ),
+        ),
         // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
